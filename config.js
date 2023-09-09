@@ -10,12 +10,12 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 
 global.owner = [
-  ['6285174306183', 'NANS OFFC', true],
-  ['6285880029379']
+  ['628978613993', 'Ryuhei', true],
+  ['628978613993']
 ] // Nomor Owner
 
-global.mods = ['6285174306183'] 
-global.prems = ['6285174306183', '6285880029379']
+global.mods = ['628978613993'] 
+global.prems = ['628978613993', '628978613993']
 
 // apikey
 global.lann = 'apikeylu'
@@ -35,26 +35,26 @@ global.APIs = { // API Prefix
 }
 
 // Watermark
-global.nama = 'NANS OFFC' // nama owner
-global.nomor = '6285880029379' // nomor owner
-global.nans = 'NANS OFFC' // nama bot 
+global.nama = 'Ryuheii' // nama owner
+global.nomor = '628978613993' // nomor owner
+global.nans = 'Ryuheii' // nama bot 
 global.thumb = 'https://i.ibb.co/m9YqsDr/neromdv3-2.jpg' // thumbnail bot ( foto menu )
 global.dygp = 'https://chat.whatsapp.com' // link group yang ada di menu
 
 // Sticker wm
-global.packname = 'NERO MD┃ᴮᴼᵀ' 
-global.author = '@nansoffc' 
-global.fgig = 'https://www.instagram.com/nansoffc' // bebas tapi jangan kosong 
-global.fgsc = 'https://github.com/nanzone' // bebas tapi jangan kosong
-global.fgyt = 'https://nansoffc.my.id/' // bebas tapi jangan kosong
-global.fgpyp = 'https://nansoffc.my.id' // bebas tapi jangan kosong
+global.packname = 'Ryvheii 
+global.author = '@Ryuheii' 
+global.fgig = 'https://www.instagram.com/sptnhdnta' // bebas tapi jangan kosong 
+global.fgsc = 'https://github.com/SeptianXcz' // bebas tapi jangan kosong
+global.fgyt = 'https://' // bebas tapi jangan kosong
+global.fgpyp = 'https:/.my.id' // bebas tapi jangan kosong
 global.fglog = 'https://i.ibb.co/kXw4XhL/nansoffc-logo.jpg'
 
 // Other
-global.dana = '6285880029379'
-global.qris = 'https://i.ibb.co/xGC5Y7j/20230712-173348.jpg'
-global.web = 'https://nansoffc.my.id'
-global.email = 'nansoffc@gmail.com'
+global.dana = '-'
+global.qris = '-'
+global.web = '-'
+global.email = 'ryuheii@ryvhei.com'
 global.lastm = 'ꜱɪᴍᴘʟᴇ ʙᴏᴛ ᴡʜᴀᴛꜱᴀᴘᴘ ʙʏ ɴᴀɴꜱ ᴏꜰꜰᴄ'
 
 global.wait = 'Tunggu sebentar....'
